@@ -1,18 +1,22 @@
+import express from 'express';
 import Telegraf from 'telegraf';
-import dotenv from 'dotenv';
-dotenv.config();
+import { config } from './src/helpers/config';
+import appDb from './src/models';
+import { startModule } from './src/modules/start';
+import tokenRouter from './src/modules/token-router';
 
-const bot = new Telegraf(process.env.BOT_TOKEN ?? '');
-bot.start((ctx) => {
-	console.log(ctx.message);
-	ctx.reply('Привет');
-});
-bot.help((ctx) => ctx.reply('Send me a sticker'));
-bot.on('sticker', (ctx) => ctx.reply('👍'));
-bot.hears('hi', (ctx) =>
-	ctx.replyWithPhoto({
-		url: 'https://source.unsplash.com/random',
-		filename: 'photo',
-	})
-);
-bot.launch();
+const main = async () => {
+	await appDb.connect();
+	const bot = new Telegraf(config.botToken || '');
+	bot.start(startModule);
+	bot.launch();
+
+	const app = express();
+	app.use('/send', tokenRouter(bot));
+	const PORT = process.env.PORT || 3000;
+	app.listen(PORT, () => {
+		console.log(`HTTP server listening on ${PORT}`);
+	});
+};
+
+main();
