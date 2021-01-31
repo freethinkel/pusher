@@ -9,7 +9,7 @@ const main = async () => {
 	await appDb.connect();
 	const bot = new Telegraf(config.botToken || '');
 	bot.start(startModule);
-	bot.launch();
+	await bot.launch();
 
 	const app = express();
 	app.use('/send', tokenRouter(bot));
@@ -19,4 +19,4 @@ const main = async () => {
 	});
 };
 
-main();
+main().then(_ => {});
