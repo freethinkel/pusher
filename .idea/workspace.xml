@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eef26f58-a6dd-4bcf-8d5c-0c05434d8aa0" name="Default Changelist" comment="try fix build" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nqedtVqLbclJaOIOSzx135wwf4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.dev" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eef26f58-a6dd-4bcf-8d5c-0c05434d8aa0" name="Default Changelist" comment="" />
+      <created>1612122141417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612122141417</updated>
+      <workItem from="1612122144581" duration="8704000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix db connection and fix sendMessage with return">
+      <created>1612125865731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612125865731</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add heroku build and some fixes">
+      <created>1612126109210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126109210</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix build">
+      <created>1612126569446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126569446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix build">
+      <created>1612126828849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126828849</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try fix build">
+      <created>1612127330184</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612127330184</updated>
+    </task>
+    <task id="LOCAL-00006" summary="try fix build">
+      <created>1612164130254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612164130254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="try fix build">
+      <created>1612164218082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612164218082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update typescript version">
+      <created>1612164507106</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612164507106</updated>
+    </task>
+    <task id="LOCAL-00009" summary="try fix build">
+      <created>1612166292081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612166292081</updated>
+    </task>
+    <task id="LOCAL-00010" summary="try fix build">
+      <created>1612166754771</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612166754771</updated>
+    </task>
+    <task id="LOCAL-00011" summary="try fix build">
+      <created>1612167396161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612167396161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix db connection and fix sendMessage with return" />
+    <MESSAGE value="add heroku build and some fixes" />
+    <MESSAGE value="fix build" />
+    <MESSAGE value="update typescript version" />
+    <MESSAGE value="try fix build" />
+    <option name="LAST_COMMIT_MESSAGE" value="try fix build" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="164" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612122231290">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="304" y="164" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.961@0.25.1680.961" timestamp="1612122231290" />
+    <state x="569" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612126077214">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="569" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.961@0.25.1680.961" timestamp="1612126077214" />
+    <state width="1059" height="256" key="GridCell.Tab.0.bottom" timestamp="1612166985782">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="256" key="GridCell.Tab.0.bottom/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985782" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.25.1680.961@0.25.1680.961" timestamp="1612126804630" />
+    <state width="1059" height="256" key="GridCell.Tab.0.center" timestamp="1612166985781">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="256" key="GridCell.Tab.0.center/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985781" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.25.1680.961@0.25.1680.961" timestamp="1612126804622" />
+    <state width="1059" height="256" key="GridCell.Tab.0.left" timestamp="1612166985781">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="256" key="GridCell.Tab.0.left/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985781" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.25.1680.961@0.25.1680.961" timestamp="1612126804608" />
+    <state width="1059" height="256" key="GridCell.Tab.0.right" timestamp="1612166985782">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state width="1059" height="256" key="GridCell.Tab.0.right/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985782" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.25.1680.961@0.25.1680.961" timestamp="1612126804624" />
+    <state x="-1031" y="-512" key="SettingsEditor" timestamp="1612167340600">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state x="-1031" y="-512" key="SettingsEditor/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167340600" />
+    <state x="-800" y="-667" key="Vcs.Push.Dialog.v2" timestamp="1612167400173">
+      <screen x="-1080" y="-1095" width="1080" height="1895" />
+    </state>
+    <state x="-800" y="-667" key="Vcs.Push.Dialog.v2/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167400173" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.25.1680.961@0.25.1680.961" timestamp="1612127345376" />
+    <state x="646" y="398" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612122989829">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="646" y="398" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.961@0.25.1680.961" timestamp="1612122989829" />
+  </component>
+</project>
