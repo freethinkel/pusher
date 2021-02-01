@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef26f58-a6dd-4bcf-8d5c-0c05434d8aa0" name="Default Changelist" comment="try fix build" />
+    <list default="true" id="eef26f58-a6dd-4bcf-8d5c-0c05434d8aa0" name="Default Changelist" comment="try fix build">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612122141417</updated>
-      <workItem from="1612122144581" duration="8704000" />
+      <workItem from="1612122144581" duration="8797000" />
     </task>
     <task id="LOCAL-00001" summary="fix db connection and fix sendMessage with return">
       <created>1612125865731</created>
@@ -194,25 +196,25 @@
       <screen x="0" y="25" width="1680" height="961" />
     </state>
     <state x="569" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.961@0.25.1680.961" timestamp="1612126077214" />
-    <state width="1059" height="256" key="GridCell.Tab.0.bottom" timestamp="1612166985782">
+    <state width="1059" height="256" key="GridCell.Tab.0.bottom" timestamp="1612167933871">
       <screen x="-1080" y="-1095" width="1080" height="1895" />
     </state>
-    <state width="1059" height="256" key="GridCell.Tab.0.bottom/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985782" />
+    <state width="1059" height="256" key="GridCell.Tab.0.bottom/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167933871" />
     <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.25.1680.961@0.25.1680.961" timestamp="1612126804630" />
-    <state width="1059" height="256" key="GridCell.Tab.0.center" timestamp="1612166985781">
+    <state width="1059" height="256" key="GridCell.Tab.0.center" timestamp="1612167933869">
       <screen x="-1080" y="-1095" width="1080" height="1895" />
     </state>
-    <state width="1059" height="256" key="GridCell.Tab.0.center/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985781" />
+    <state width="1059" height="256" key="GridCell.Tab.0.center/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167933869" />
     <state width="1659" height="256" key="GridCell.Tab.0.center/0.25.1680.961@0.25.1680.961" timestamp="1612126804622" />
-    <state width="1059" height="256" key="GridCell.Tab.0.left" timestamp="1612166985781">
+    <state width="1059" height="256" key="GridCell.Tab.0.left" timestamp="1612167933869">
       <screen x="-1080" y="-1095" width="1080" height="1895" />
     </state>
-    <state width="1059" height="256" key="GridCell.Tab.0.left/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985781" />
+    <state width="1059" height="256" key="GridCell.Tab.0.left/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167933869" />
     <state width="1659" height="256" key="GridCell.Tab.0.left/0.25.1680.961@0.25.1680.961" timestamp="1612126804608" />
-    <state width="1059" height="256" key="GridCell.Tab.0.right" timestamp="1612166985782">
+    <state width="1059" height="256" key="GridCell.Tab.0.right" timestamp="1612167933870">
       <screen x="-1080" y="-1095" width="1080" height="1895" />
     </state>
-    <state width="1059" height="256" key="GridCell.Tab.0.right/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612166985782" />
+    <state width="1059" height="256" key="GridCell.Tab.0.right/0.25.1680.961/-1080.-1095.1080.1895@-1080.-1095.1080.1895" timestamp="1612167933870" />
     <state width="1659" height="256" key="GridCell.Tab.0.right/0.25.1680.961@0.25.1680.961" timestamp="1612126804624" />
     <state x="-1031" y="-512" key="SettingsEditor" timestamp="1612167340600">
       <screen x="-1080" y="-1095" width="1080" height="1895" />
