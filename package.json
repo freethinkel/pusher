@@ -5,8 +5,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev index.ts",
-    "build": "tsc",
-    "start": "node build/index.js"
+    "build:ts": "tsc",
+    "start": "node build/index.js",
+    "prestart": "npm run build:ts"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
